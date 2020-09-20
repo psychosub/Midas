@@ -27,7 +27,7 @@
 
 Midas is a Fortnite Discord bot that users can invite to there very own discord server and get info on Fortnite Players such as Account Id, Wins, Kills etc. Midas was just a test project to get familer with API Requests in python. If you find any issues with the bot please open a issue request and i will try my best to fix it.
 
-Why Use Midas?:
+Why Use Midas:
 * Midas features many different commands that other Fortnite Bots don't such as a Whois command. That tells the user all about Fortnite account
 * Its free and easy to use. Midas is completely free and does not require any signup or login page.
 * Midas is online 24/7. Midas is up 24/7 & 365 days a year meaning no matter what day or time is it you can always use Midas.
