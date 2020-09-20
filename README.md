@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/GrenadeVisuals/Midas">
-    <img src="https://cybernews.com/wp-content/uploads/2020/07/Discord-privacy-tips-that-you-should-use-.jpg" alt="Logo" width="80" height="80">
+    <img src="assets/bot pfp.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Midas</h3>
