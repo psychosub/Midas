@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://cybernews.com/wp-content/uploads/2020/07/Discord-privacy-tips-that-you-should-use-.jpg">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -11,14 +11,14 @@
   <p align="center">
     A Discord Bot About The Video Game Fortnite!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Invite Midas To You're Server »</strong></a>
+    <a href="https://discord.com/oauth2/authorize?client_id=754666157826506794&scope=bot&permissions=8"><strong>Invite Midas To You're Server »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/GrenadeVisuals/Midas/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Support Server</a>
+    <a href="https://discord.gg/g3P9fEh">Support Server</a>
   </p>
 </p>
 
