@@ -38,11 +38,11 @@ Why Use Midas?:
 ```sh
 git clone https://github.com/GrenadeVisuals/Midas.git
 ```
-3. Install the required modules
+2. Install the required modules
 ```sh
 pip install -r requirements.txt
 ```
-4. Run The Bot
+3. Run The Bot
 ```PY
 python bot.py
 ```
