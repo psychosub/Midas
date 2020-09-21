@@ -21,6 +21,13 @@ class Commands(commands.Cog):
         await ctx.send(embed=embed)
 
     @commands.command()
+    async def fakeperson(self, ctx):
+        embed = discord.Embed(title="Fortnite BR News", color=0x2093C2)
+        embed.set_image(url="https://thispersondoesnotexist.com/image")
+        embed.set_footer(text="Thanks For Using Lynx | @Grenadevisuals", icon_url='https://cdn.discordapp.com/attachments/748585359335489596/749286321109073930/H3IcPDkt_400x400.jpg')
+        await ctx.send(embed=embed)
+        
+    @commands.command()
     async def song(self, ctx):
         fortnite = requests.get("https://sad-music-json-test.herokuapp.com/song").json()
         embed = discord.Embed(title=fortnite["Song"], color=0x2093C2)
