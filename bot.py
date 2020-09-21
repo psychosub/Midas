@@ -22,7 +22,7 @@ async def on_ready():
 @client.command()
 async def test(ctx):
     if ctx.channel.is_nsfw():
-        ctx.send("Yep")
+        await ctx.send("Yep")
 
 
 for filename in os.listdir('./cogs'):
