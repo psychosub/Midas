@@ -23,6 +23,10 @@ async def on_ready():
 async def test(ctx):
     if ctx.channel.is_nsfw():
         await ctx.send("Yep")
+    else:
+        await ctx.send("nope")
+        
+     
 
 
 for filename in os.listdir('./cogs'):
