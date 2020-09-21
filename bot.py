@@ -18,7 +18,13 @@ async def on_ready():
     rpc = Presence("754666157826506794")
     rpc.connect()
     rpc.update(state="Example", details="Example", large_image="test", start=time.time())
-    
+ 
+@client.command()
+async def test(ctx):
+    if ctx.channel.is_nsfw():
+    ctx.send("Yep")
+else:
+    ctx.send("Nope")
 
 for filename in os.listdir('./cogs'):
     if filename.endswith('.py'):
