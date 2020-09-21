@@ -22,7 +22,7 @@ async def on_ready():
 @client.command()
 async def test(ctx):
     if ctx.channel.is_nsfw():
-    ctx.send("Yep")
+        ctx.send("Yep")
 else:
     ctx.send("Nope")
 
