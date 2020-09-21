@@ -23,8 +23,7 @@ async def on_ready():
 async def test(ctx):
     if ctx.channel.is_nsfw():
         ctx.send("Yep")
-else:
-    ctx.send("Nope")
+
 
 for filename in os.listdir('./cogs'):
     if filename.endswith('.py'):
